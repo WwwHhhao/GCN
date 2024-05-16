@@ -1,0 +1,4 @@
+16:06:19.344 [main] INFO  c.x.w.WebsocAccessApplication - [logStarting,50] - Starting WebsocAccessApplication v1.0-SNAPSHOT on ecm-131-12 with PID 3676891 (/usr/local/websoc_access/bin/websoc_access.jar started by root in /usr/local/websoc_access)
+16:06:19.350 [main] INFO  c.x.w.WebsocAccessApplication - [logStartupProfileInfo,646] - No active profile set, falling back to default profiles: default
+16:06:20.709 [main] WARN  o.m.s.m.ClassPathMapperScanner - [warn,44] - No MyBatis mapper was found in '[com.xw.websoc_access]' package. Please check your configuration.
+16:06:21.793 [main] INFO  o.s.b.w.e.t.TomcatWebServer - [initialize,90] - Tomcat initialized with port(s): 8441 (http)
